@@ -1,5 +1,5 @@
 # FizzBuzz
-FizzBuzz is a .Net 5 Web API that taken in a Json formatted list of input and gives a result as:
+FizzBuzz is a .Net 5 Web API that takes in a Json formatted list of input and gives a result as:
  
 Sample Input Format(Json): 
 {
